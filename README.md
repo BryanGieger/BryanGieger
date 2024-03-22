@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm **Bryan Mosquera** a freelancer **Back End developer** from **Ecuador**.<br>💼 I'm **currently working** on medical back office app proyect.<br>🔭 I'm **open** for anything back end project.<br>🤝 I have and lead a team of experts in various areas of design and development called @KitieBow-Developers .<br><br>
+Hi! I'm **Bryan Mosquera** a freelancer **Back End developer** from **Ecuador**.<br>💼 I'm **currently working** on medical back office app proyect.<br>🔭 I'm **open** for anything back end project.<br>🤝 I have and lead a team of experts in various areas of design and development called [KitieBow Developers](https://github.com/KitieBow-Developers).<br><br>
 
 
 ## 🌐 Socials:
